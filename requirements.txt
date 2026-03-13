@@ -1,5 +1,5 @@
 flask==2.3.3
-flask-cors==3.1.1
+flask-cors==6.0.2
 psycopg2-binary==2.9.9
 requests==2.31.0
 openai==1.107.3
